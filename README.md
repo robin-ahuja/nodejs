@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Understand Redis implementation in NodeJs
+Get knowledge of implemetation of Redis in NodeJs
